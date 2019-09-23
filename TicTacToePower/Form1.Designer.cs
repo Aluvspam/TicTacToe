@@ -30,87 +30,87 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
-            this.button14 = new System.Windows.Forms.Button();
-            this.button15 = new System.Windows.Forms.Button();
-            this.button16 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
-            this.button18 = new System.Windows.Forms.Button();
-            this.button19 = new System.Windows.Forms.Button();
-            this.button20 = new System.Windows.Forms.Button();
-            this.button21 = new System.Windows.Forms.Button();
-            this.button22 = new System.Windows.Forms.Button();
-            this.button23 = new System.Windows.Forms.Button();
-            this.button24 = new System.Windows.Forms.Button();
-            this.button25 = new System.Windows.Forms.Button();
-            this.button26 = new System.Windows.Forms.Button();
-            this.button27 = new System.Windows.Forms.Button();
-            this.button28 = new System.Windows.Forms.Button();
-            this.button29 = new System.Windows.Forms.Button();
-            this.button30 = new System.Windows.Forms.Button();
-            this.button31 = new System.Windows.Forms.Button();
-            this.button32 = new System.Windows.Forms.Button();
-            this.button33 = new System.Windows.Forms.Button();
-            this.button34 = new System.Windows.Forms.Button();
-            this.button35 = new System.Windows.Forms.Button();
-            this.button36 = new System.Windows.Forms.Button();
-            this.button37 = new System.Windows.Forms.Button();
-            this.button38 = new System.Windows.Forms.Button();
-            this.button39 = new System.Windows.Forms.Button();
-            this.button40 = new System.Windows.Forms.Button();
-            this.button41 = new System.Windows.Forms.Button();
-            this.button42 = new System.Windows.Forms.Button();
-            this.button43 = new System.Windows.Forms.Button();
-            this.button44 = new System.Windows.Forms.Button();
-            this.button45 = new System.Windows.Forms.Button();
-            this.button46 = new System.Windows.Forms.Button();
-            this.button47 = new System.Windows.Forms.Button();
-            this.button48 = new System.Windows.Forms.Button();
-            this.button49 = new System.Windows.Forms.Button();
-            this.button50 = new System.Windows.Forms.Button();
-            this.button51 = new System.Windows.Forms.Button();
-            this.button52 = new System.Windows.Forms.Button();
-            this.button53 = new System.Windows.Forms.Button();
-            this.button54 = new System.Windows.Forms.Button();
-            this.button55 = new System.Windows.Forms.Button();
-            this.button56 = new System.Windows.Forms.Button();
-            this.button57 = new System.Windows.Forms.Button();
-            this.button58 = new System.Windows.Forms.Button();
-            this.button59 = new System.Windows.Forms.Button();
-            this.button60 = new System.Windows.Forms.Button();
-            this.button61 = new System.Windows.Forms.Button();
-            this.button62 = new System.Windows.Forms.Button();
-            this.button63 = new System.Windows.Forms.Button();
-            this.button64 = new System.Windows.Forms.Button();
-            this.button65 = new System.Windows.Forms.Button();
-            this.button66 = new System.Windows.Forms.Button();
-            this.button67 = new System.Windows.Forms.Button();
-            this.button68 = new System.Windows.Forms.Button();
-            this.button69 = new System.Windows.Forms.Button();
-            this.button70 = new System.Windows.Forms.Button();
-            this.button71 = new System.Windows.Forms.Button();
-            this.button72 = new System.Windows.Forms.Button();
-            this.button73 = new System.Windows.Forms.Button();
-            this.button74 = new System.Windows.Forms.Button();
-            this.button75 = new System.Windows.Forms.Button();
-            this.button76 = new System.Windows.Forms.Button();
-            this.button77 = new System.Windows.Forms.Button();
-            this.button78 = new System.Windows.Forms.Button();
-            this.button79 = new System.Windows.Forms.Button();
-            this.button80 = new System.Windows.Forms.Button();
-            this.button81 = new System.Windows.Forms.Button();
+            this.A1 = new System.Windows.Forms.Button();
+            this.A2 = new System.Windows.Forms.Button();
+            this.A3 = new System.Windows.Forms.Button();
+            this.A4 = new System.Windows.Forms.Button();
+            this.A5 = new System.Windows.Forms.Button();
+            this.A6 = new System.Windows.Forms.Button();
+            this.A7 = new System.Windows.Forms.Button();
+            this.A8 = new System.Windows.Forms.Button();
+            this.A9 = new System.Windows.Forms.Button();
+            this.B1 = new System.Windows.Forms.Button();
+            this.B2 = new System.Windows.Forms.Button();
+            this.B3 = new System.Windows.Forms.Button();
+            this.B4 = new System.Windows.Forms.Button();
+            this.B5 = new System.Windows.Forms.Button();
+            this.B6 = new System.Windows.Forms.Button();
+            this.B7 = new System.Windows.Forms.Button();
+            this.B8 = new System.Windows.Forms.Button();
+            this.B9 = new System.Windows.Forms.Button();
+            this.C1 = new System.Windows.Forms.Button();
+            this.C2 = new System.Windows.Forms.Button();
+            this.C3 = new System.Windows.Forms.Button();
+            this.C4 = new System.Windows.Forms.Button();
+            this.C5 = new System.Windows.Forms.Button();
+            this.C6 = new System.Windows.Forms.Button();
+            this.C7 = new System.Windows.Forms.Button();
+            this.C8 = new System.Windows.Forms.Button();
+            this.C9 = new System.Windows.Forms.Button();
+            this.D1 = new System.Windows.Forms.Button();
+            this.D2 = new System.Windows.Forms.Button();
+            this.D3 = new System.Windows.Forms.Button();
+            this.D4 = new System.Windows.Forms.Button();
+            this.D5 = new System.Windows.Forms.Button();
+            this.D6 = new System.Windows.Forms.Button();
+            this.D7 = new System.Windows.Forms.Button();
+            this.D8 = new System.Windows.Forms.Button();
+            this.D9 = new System.Windows.Forms.Button();
+            this.E1 = new System.Windows.Forms.Button();
+            this.E2 = new System.Windows.Forms.Button();
+            this.E3 = new System.Windows.Forms.Button();
+            this.E4 = new System.Windows.Forms.Button();
+            this.E5 = new System.Windows.Forms.Button();
+            this.E6 = new System.Windows.Forms.Button();
+            this.E7 = new System.Windows.Forms.Button();
+            this.E8 = new System.Windows.Forms.Button();
+            this.E9 = new System.Windows.Forms.Button();
+            this.F1 = new System.Windows.Forms.Button();
+            this.F2 = new System.Windows.Forms.Button();
+            this.F3 = new System.Windows.Forms.Button();
+            this.F4 = new System.Windows.Forms.Button();
+            this.F5 = new System.Windows.Forms.Button();
+            this.F6 = new System.Windows.Forms.Button();
+            this.F7 = new System.Windows.Forms.Button();
+            this.F8 = new System.Windows.Forms.Button();
+            this.F9 = new System.Windows.Forms.Button();
+            this.G1 = new System.Windows.Forms.Button();
+            this.G2 = new System.Windows.Forms.Button();
+            this.G3 = new System.Windows.Forms.Button();
+            this.G4 = new System.Windows.Forms.Button();
+            this.G5 = new System.Windows.Forms.Button();
+            this.G6 = new System.Windows.Forms.Button();
+            this.G7 = new System.Windows.Forms.Button();
+            this.G8 = new System.Windows.Forms.Button();
+            this.G9 = new System.Windows.Forms.Button();
+            this.H1 = new System.Windows.Forms.Button();
+            this.H2 = new System.Windows.Forms.Button();
+            this.H3 = new System.Windows.Forms.Button();
+            this.H4 = new System.Windows.Forms.Button();
+            this.H5 = new System.Windows.Forms.Button();
+            this.H6 = new System.Windows.Forms.Button();
+            this.H7 = new System.Windows.Forms.Button();
+            this.H8 = new System.Windows.Forms.Button();
+            this.H9 = new System.Windows.Forms.Button();
+            this.I1 = new System.Windows.Forms.Button();
+            this.I2 = new System.Windows.Forms.Button();
+            this.I3 = new System.Windows.Forms.Button();
+            this.I4 = new System.Windows.Forms.Button();
+            this.I5 = new System.Windows.Forms.Button();
+            this.I6 = new System.Windows.Forms.Button();
+            this.I7 = new System.Windows.Forms.Button();
+            this.I8 = new System.Windows.Forms.Button();
+            this.I9 = new System.Windows.Forms.Button();
             this.Reset = new System.Windows.Forms.Button();
             this.button82 = new System.Windows.Forms.Button();
             this.button83 = new System.Windows.Forms.Button();
@@ -121,9 +121,10 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Ravie", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(901, 49);
+            this.label1.Location = new System.Drawing.Point(2259, 213);
+            this.label1.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(237, 30);
+            this.label1.Size = new System.Drawing.Size(596, 71);
             this.label1.TabIndex = 0;
             this.label1.Text = "Player 1 Score:  ";
             this.label1.Click += new System.EventHandler(this.Label1_Click);
@@ -133,992 +134,995 @@
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Ravie", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.label2.Location = new System.Drawing.Point(901, 121);
+            this.label2.Location = new System.Drawing.Point(2259, 385);
+            this.label2.Margin = new System.Windows.Forms.Padding(8, 0, 8, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(243, 30);
+            this.label2.Size = new System.Drawing.Size(611, 71);
             this.label2.TabIndex = 1;
             this.label2.Text = "Player 2 Score:  ";
             // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button1.Location = new System.Drawing.Point(141, 49);
-            this.button1.Margin = new System.Windows.Forms.Padding(1);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(70, 70);
-            this.button1.TabIndex = 2;
-            this.button1.Tag = "Play";
-            this.button1.Text = "?";
-            this.button1.UseVisualStyleBackColor = false;
-            // 
-            // button2
-            // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button2.Location = new System.Drawing.Point(213, 49);
-            this.button2.Margin = new System.Windows.Forms.Padding(1);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(70, 70);
-            this.button2.TabIndex = 3;
-            this.button2.Tag = "Play";
-            this.button2.Text = "?";
-            this.button2.UseVisualStyleBackColor = false;
-            // 
-            // button3
-            // 
-            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button3.Location = new System.Drawing.Point(285, 49);
-            this.button3.Margin = new System.Windows.Forms.Padding(1);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(70, 70);
-            this.button3.TabIndex = 4;
-            this.button3.Tag = "Play";
-            this.button3.Text = "?";
-            this.button3.UseVisualStyleBackColor = false;
-            // 
-            // button4
-            // 
-            this.button4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button4.Location = new System.Drawing.Point(357, 49);
-            this.button4.Margin = new System.Windows.Forms.Padding(1);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(70, 70);
-            this.button4.TabIndex = 5;
-            this.button4.Tag = "Play";
-            this.button4.Text = "?";
-            this.button4.UseVisualStyleBackColor = false;
-            // 
-            // button5
-            // 
-            this.button5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button5.Location = new System.Drawing.Point(429, 49);
-            this.button5.Margin = new System.Windows.Forms.Padding(1);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(70, 70);
-            this.button5.TabIndex = 6;
-            this.button5.Tag = "Play";
-            this.button5.Text = "?";
-            this.button5.UseVisualStyleBackColor = false;
-            // 
-            // button6
-            // 
-            this.button6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button6.Location = new System.Drawing.Point(501, 49);
-            this.button6.Margin = new System.Windows.Forms.Padding(1);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(70, 70);
-            this.button6.TabIndex = 7;
-            this.button6.Tag = "Play";
-            this.button6.Text = "?";
-            this.button6.UseVisualStyleBackColor = false;
-            // 
-            // button7
-            // 
-            this.button7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button7.Location = new System.Drawing.Point(573, 49);
-            this.button7.Margin = new System.Windows.Forms.Padding(1);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(70, 70);
-            this.button7.TabIndex = 8;
-            this.button7.Tag = "Play";
-            this.button7.Text = "?";
-            this.button7.UseVisualStyleBackColor = false;
-            // 
-            // button8
-            // 
-            this.button8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button8.Location = new System.Drawing.Point(645, 49);
-            this.button8.Margin = new System.Windows.Forms.Padding(1);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(70, 70);
-            this.button8.TabIndex = 9;
-            this.button8.Tag = "Play";
-            this.button8.Text = "?";
-            this.button8.UseVisualStyleBackColor = false;
-            // 
-            // button9
-            // 
-            this.button9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button9.Location = new System.Drawing.Point(717, 49);
-            this.button9.Margin = new System.Windows.Forms.Padding(1);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(70, 70);
-            this.button9.TabIndex = 10;
-            this.button9.Tag = "Play";
-            this.button9.Text = "?";
-            this.button9.UseVisualStyleBackColor = false;
-            // 
-            // button10
-            // 
-            this.button10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button10.Location = new System.Drawing.Point(141, 121);
-            this.button10.Margin = new System.Windows.Forms.Padding(1);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(70, 70);
-            this.button10.TabIndex = 11;
-            this.button10.Tag = "Play";
-            this.button10.Text = "?";
-            this.button10.UseVisualStyleBackColor = false;
-            // 
-            // button11
-            // 
-            this.button11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button11.Location = new System.Drawing.Point(213, 121);
-            this.button11.Margin = new System.Windows.Forms.Padding(1);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(70, 70);
-            this.button11.TabIndex = 12;
-            this.button11.Tag = "Play";
-            this.button11.Text = "?";
-            this.button11.UseVisualStyleBackColor = false;
-            // 
-            // button12
-            // 
-            this.button12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button12.Location = new System.Drawing.Point(285, 121);
-            this.button12.Margin = new System.Windows.Forms.Padding(1);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(70, 70);
-            this.button12.TabIndex = 13;
-            this.button12.Tag = "Play";
-            this.button12.Text = "?";
-            this.button12.UseVisualStyleBackColor = false;
-            // 
-            // button13
-            // 
-            this.button13.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button13.Location = new System.Drawing.Point(357, 121);
-            this.button13.Margin = new System.Windows.Forms.Padding(1);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(70, 70);
-            this.button13.TabIndex = 14;
-            this.button13.Tag = "Play";
-            this.button13.Text = "?";
-            this.button13.UseVisualStyleBackColor = false;
-            // 
-            // button14
-            // 
-            this.button14.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button14.Location = new System.Drawing.Point(429, 121);
-            this.button14.Margin = new System.Windows.Forms.Padding(1);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(70, 70);
-            this.button14.TabIndex = 15;
-            this.button14.Tag = "Play";
-            this.button14.Text = "?";
-            this.button14.UseVisualStyleBackColor = false;
-            // 
-            // button15
-            // 
-            this.button15.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button15.Location = new System.Drawing.Point(501, 121);
-            this.button15.Margin = new System.Windows.Forms.Padding(1);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(70, 70);
-            this.button15.TabIndex = 16;
-            this.button15.Tag = "Play";
-            this.button15.Text = "?";
-            this.button15.UseVisualStyleBackColor = false;
-            // 
-            // button16
-            // 
-            this.button16.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button16.Location = new System.Drawing.Point(573, 121);
-            this.button16.Margin = new System.Windows.Forms.Padding(1);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(70, 70);
-            this.button16.TabIndex = 17;
-            this.button16.Tag = "Play";
-            this.button16.Text = "?";
-            this.button16.UseVisualStyleBackColor = false;
-            // 
-            // button17
-            // 
-            this.button17.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button17.Location = new System.Drawing.Point(645, 121);
-            this.button17.Margin = new System.Windows.Forms.Padding(1);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(70, 70);
-            this.button17.TabIndex = 18;
-            this.button17.Tag = "Play";
-            this.button17.Text = "?";
-            this.button17.UseVisualStyleBackColor = false;
-            // 
-            // button18
-            // 
-            this.button18.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button18.Location = new System.Drawing.Point(717, 121);
-            this.button18.Margin = new System.Windows.Forms.Padding(1);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(70, 70);
-            this.button18.TabIndex = 19;
-            this.button18.Tag = "Play";
-            this.button18.Text = "?";
-            this.button18.UseVisualStyleBackColor = false;
-            // 
-            // button19
-            // 
-            this.button19.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button19.Location = new System.Drawing.Point(141, 193);
-            this.button19.Margin = new System.Windows.Forms.Padding(1);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(70, 70);
-            this.button19.TabIndex = 37;
-            this.button19.Tag = "Play";
-            this.button19.Text = "?";
-            this.button19.UseVisualStyleBackColor = false;
-            // 
-            // button20
-            // 
-            this.button20.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button20.Location = new System.Drawing.Point(213, 193);
-            this.button20.Margin = new System.Windows.Forms.Padding(1);
-            this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(70, 70);
-            this.button20.TabIndex = 36;
-            this.button20.Tag = "Play";
-            this.button20.Text = "?";
-            this.button20.UseVisualStyleBackColor = false;
-            // 
-            // button21
-            // 
-            this.button21.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button21.Location = new System.Drawing.Point(285, 193);
-            this.button21.Margin = new System.Windows.Forms.Padding(1);
-            this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(70, 70);
-            this.button21.TabIndex = 35;
-            this.button21.Tag = "Play";
-            this.button21.Text = "?";
-            this.button21.UseVisualStyleBackColor = false;
-            // 
-            // button22
-            // 
-            this.button22.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button22.Location = new System.Drawing.Point(357, 193);
-            this.button22.Margin = new System.Windows.Forms.Padding(1);
-            this.button22.Name = "button22";
-            this.button22.Size = new System.Drawing.Size(70, 70);
-            this.button22.TabIndex = 34;
-            this.button22.Tag = "Play";
-            this.button22.Text = "?";
-            this.button22.UseVisualStyleBackColor = false;
-            // 
-            // button23
-            // 
-            this.button23.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button23.Location = new System.Drawing.Point(429, 193);
-            this.button23.Margin = new System.Windows.Forms.Padding(1);
-            this.button23.Name = "button23";
-            this.button23.Size = new System.Drawing.Size(70, 70);
-            this.button23.TabIndex = 33;
-            this.button23.Tag = "Play";
-            this.button23.Text = "?";
-            this.button23.UseVisualStyleBackColor = false;
-            // 
-            // button24
-            // 
-            this.button24.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button24.Location = new System.Drawing.Point(501, 193);
-            this.button24.Margin = new System.Windows.Forms.Padding(1);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(70, 70);
-            this.button24.TabIndex = 32;
-            this.button24.Tag = "Play";
-            this.button24.Text = "?";
-            this.button24.UseVisualStyleBackColor = false;
-            // 
-            // button25
-            // 
-            this.button25.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button25.Location = new System.Drawing.Point(573, 193);
-            this.button25.Margin = new System.Windows.Forms.Padding(1);
-            this.button25.Name = "button25";
-            this.button25.Size = new System.Drawing.Size(70, 70);
-            this.button25.TabIndex = 31;
-            this.button25.Tag = "Play";
-            this.button25.Text = "?";
-            this.button25.UseVisualStyleBackColor = false;
-            // 
-            // button26
-            // 
-            this.button26.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button26.Location = new System.Drawing.Point(645, 193);
-            this.button26.Margin = new System.Windows.Forms.Padding(1);
-            this.button26.Name = "button26";
-            this.button26.Size = new System.Drawing.Size(70, 70);
-            this.button26.TabIndex = 30;
-            this.button26.Tag = "Play";
-            this.button26.Text = "?";
-            this.button26.UseVisualStyleBackColor = false;
-            // 
-            // button27
-            // 
-            this.button27.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button27.Location = new System.Drawing.Point(717, 193);
-            this.button27.Margin = new System.Windows.Forms.Padding(1);
-            this.button27.Name = "button27";
-            this.button27.Size = new System.Drawing.Size(70, 70);
-            this.button27.TabIndex = 29;
-            this.button27.Tag = "Play";
-            this.button27.Text = "?";
-            this.button27.UseVisualStyleBackColor = false;
-            // 
-            // button28
-            // 
-            this.button28.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button28.Location = new System.Drawing.Point(141, 265);
-            this.button28.Margin = new System.Windows.Forms.Padding(1);
-            this.button28.Name = "button28";
-            this.button28.Size = new System.Drawing.Size(70, 70);
-            this.button28.TabIndex = 28;
-            this.button28.Tag = "Play";
-            this.button28.Text = "?";
-            this.button28.UseVisualStyleBackColor = false;
-            // 
-            // button29
-            // 
-            this.button29.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button29.Location = new System.Drawing.Point(213, 265);
-            this.button29.Margin = new System.Windows.Forms.Padding(1);
-            this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(70, 70);
-            this.button29.TabIndex = 27;
-            this.button29.Tag = "Play";
-            this.button29.Text = "?";
-            this.button29.UseVisualStyleBackColor = false;
-            // 
-            // button30
-            // 
-            this.button30.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button30.Location = new System.Drawing.Point(285, 265);
-            this.button30.Margin = new System.Windows.Forms.Padding(1);
-            this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(70, 70);
-            this.button30.TabIndex = 26;
-            this.button30.Tag = "Play";
-            this.button30.Text = "?";
-            this.button30.UseVisualStyleBackColor = false;
-            // 
-            // button31
-            // 
-            this.button31.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button31.Location = new System.Drawing.Point(357, 265);
-            this.button31.Margin = new System.Windows.Forms.Padding(1);
-            this.button31.Name = "button31";
-            this.button31.Size = new System.Drawing.Size(70, 70);
-            this.button31.TabIndex = 25;
-            this.button31.Tag = "Play";
-            this.button31.Text = "?";
-            this.button31.UseVisualStyleBackColor = false;
-            // 
-            // button32
-            // 
-            this.button32.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button32.Location = new System.Drawing.Point(429, 265);
-            this.button32.Margin = new System.Windows.Forms.Padding(1);
-            this.button32.Name = "button32";
-            this.button32.Size = new System.Drawing.Size(70, 70);
-            this.button32.TabIndex = 24;
-            this.button32.Tag = "Play";
-            this.button32.Text = "?";
-            this.button32.UseVisualStyleBackColor = false;
-            // 
-            // button33
-            // 
-            this.button33.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button33.Location = new System.Drawing.Point(501, 265);
-            this.button33.Margin = new System.Windows.Forms.Padding(1);
-            this.button33.Name = "button33";
-            this.button33.Size = new System.Drawing.Size(70, 70);
-            this.button33.TabIndex = 23;
-            this.button33.Tag = "Play";
-            this.button33.Text = "?";
-            this.button33.UseVisualStyleBackColor = false;
-            // 
-            // button34
-            // 
-            this.button34.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button34.Location = new System.Drawing.Point(573, 265);
-            this.button34.Margin = new System.Windows.Forms.Padding(1);
-            this.button34.Name = "button34";
-            this.button34.Size = new System.Drawing.Size(70, 70);
-            this.button34.TabIndex = 22;
-            this.button34.Tag = "Play";
-            this.button34.Text = "?";
-            this.button34.UseVisualStyleBackColor = false;
-            // 
-            // button35
-            // 
-            this.button35.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button35.Location = new System.Drawing.Point(645, 265);
-            this.button35.Margin = new System.Windows.Forms.Padding(1);
-            this.button35.Name = "button35";
-            this.button35.Size = new System.Drawing.Size(70, 70);
-            this.button35.TabIndex = 21;
-            this.button35.Tag = "Play";
-            this.button35.Text = "?";
-            this.button35.UseVisualStyleBackColor = false;
-            // 
-            // button36
-            // 
-            this.button36.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button36.Location = new System.Drawing.Point(717, 265);
-            this.button36.Margin = new System.Windows.Forms.Padding(1);
-            this.button36.Name = "button36";
-            this.button36.Size = new System.Drawing.Size(70, 70);
-            this.button36.TabIndex = 20;
-            this.button36.Tag = "Play";
-            this.button36.Text = "?";
-            this.button36.UseVisualStyleBackColor = false;
-            // 
-            // button37
-            // 
-            this.button37.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button37.Location = new System.Drawing.Point(141, 337);
-            this.button37.Margin = new System.Windows.Forms.Padding(1);
-            this.button37.Name = "button37";
-            this.button37.Size = new System.Drawing.Size(70, 70);
-            this.button37.TabIndex = 55;
-            this.button37.Tag = "Play";
-            this.button37.Text = "?";
-            this.button37.UseVisualStyleBackColor = false;
-            // 
-            // button38
-            // 
-            this.button38.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button38.Location = new System.Drawing.Point(213, 337);
-            this.button38.Margin = new System.Windows.Forms.Padding(1);
-            this.button38.Name = "button38";
-            this.button38.Size = new System.Drawing.Size(70, 70);
-            this.button38.TabIndex = 54;
-            this.button38.Tag = "Play";
-            this.button38.Text = "?";
-            this.button38.UseVisualStyleBackColor = false;
-            // 
-            // button39
-            // 
-            this.button39.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button39.Location = new System.Drawing.Point(285, 337);
-            this.button39.Margin = new System.Windows.Forms.Padding(1);
-            this.button39.Name = "button39";
-            this.button39.Size = new System.Drawing.Size(70, 70);
-            this.button39.TabIndex = 53;
-            this.button39.Tag = "Play";
-            this.button39.Text = "?";
-            this.button39.UseVisualStyleBackColor = false;
-            // 
-            // button40
-            // 
-            this.button40.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button40.Location = new System.Drawing.Point(357, 337);
-            this.button40.Margin = new System.Windows.Forms.Padding(1);
-            this.button40.Name = "button40";
-            this.button40.Size = new System.Drawing.Size(70, 70);
-            this.button40.TabIndex = 52;
-            this.button40.Tag = "Play";
-            this.button40.Text = "?";
-            this.button40.UseVisualStyleBackColor = false;
-            // 
-            // button41
-            // 
-            this.button41.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button41.Location = new System.Drawing.Point(429, 337);
-            this.button41.Margin = new System.Windows.Forms.Padding(1);
-            this.button41.Name = "button41";
-            this.button41.Size = new System.Drawing.Size(70, 70);
-            this.button41.TabIndex = 51;
-            this.button41.Tag = "Play";
-            this.button41.Text = "?";
-            this.button41.UseVisualStyleBackColor = false;
-            // 
-            // button42
-            // 
-            this.button42.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button42.Location = new System.Drawing.Point(501, 337);
-            this.button42.Margin = new System.Windows.Forms.Padding(1);
-            this.button42.Name = "button42";
-            this.button42.Size = new System.Drawing.Size(70, 70);
-            this.button42.TabIndex = 50;
-            this.button42.Tag = "Play";
-            this.button42.Text = "?";
-            this.button42.UseVisualStyleBackColor = false;
-            // 
-            // button43
-            // 
-            this.button43.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button43.Location = new System.Drawing.Point(573, 337);
-            this.button43.Margin = new System.Windows.Forms.Padding(1);
-            this.button43.Name = "button43";
-            this.button43.Size = new System.Drawing.Size(70, 70);
-            this.button43.TabIndex = 49;
-            this.button43.Tag = "Play";
-            this.button43.Text = "?";
-            this.button43.UseVisualStyleBackColor = false;
-            // 
-            // button44
-            // 
-            this.button44.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button44.Location = new System.Drawing.Point(645, 337);
-            this.button44.Margin = new System.Windows.Forms.Padding(1);
-            this.button44.Name = "button44";
-            this.button44.Size = new System.Drawing.Size(70, 70);
-            this.button44.TabIndex = 48;
-            this.button44.Tag = "Play";
-            this.button44.Text = "?";
-            this.button44.UseVisualStyleBackColor = false;
-            // 
-            // button45
-            // 
-            this.button45.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button45.Location = new System.Drawing.Point(717, 337);
-            this.button45.Margin = new System.Windows.Forms.Padding(1);
-            this.button45.Name = "button45";
-            this.button45.Size = new System.Drawing.Size(70, 70);
-            this.button45.TabIndex = 47;
-            this.button45.Tag = "Play";
-            this.button45.Text = "?";
-            this.button45.UseVisualStyleBackColor = false;
-            // 
-            // button46
-            // 
-            this.button46.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button46.Location = new System.Drawing.Point(141, 410);
-            this.button46.Margin = new System.Windows.Forms.Padding(1);
-            this.button46.Name = "button46";
-            this.button46.Size = new System.Drawing.Size(70, 70);
-            this.button46.TabIndex = 46;
-            this.button46.Tag = "Play";
-            this.button46.Text = "?";
-            this.button46.UseVisualStyleBackColor = false;
-            // 
-            // button47
-            // 
-            this.button47.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button47.Location = new System.Drawing.Point(213, 410);
-            this.button47.Margin = new System.Windows.Forms.Padding(1);
-            this.button47.Name = "button47";
-            this.button47.Size = new System.Drawing.Size(70, 70);
-            this.button47.TabIndex = 45;
-            this.button47.Tag = "Play";
-            this.button47.Text = "?";
-            this.button47.UseVisualStyleBackColor = false;
-            // 
-            // button48
-            // 
-            this.button48.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button48.Location = new System.Drawing.Point(285, 410);
-            this.button48.Margin = new System.Windows.Forms.Padding(1);
-            this.button48.Name = "button48";
-            this.button48.Size = new System.Drawing.Size(70, 70);
-            this.button48.TabIndex = 44;
-            this.button48.Tag = "Play";
-            this.button48.Text = "?";
-            this.button48.UseVisualStyleBackColor = false;
-            // 
-            // button49
-            // 
-            this.button49.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button49.Location = new System.Drawing.Point(357, 410);
-            this.button49.Margin = new System.Windows.Forms.Padding(1);
-            this.button49.Name = "button49";
-            this.button49.Size = new System.Drawing.Size(70, 70);
-            this.button49.TabIndex = 43;
-            this.button49.Tag = "Play";
-            this.button49.Text = "?";
-            this.button49.UseVisualStyleBackColor = false;
-            // 
-            // button50
-            // 
-            this.button50.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button50.Location = new System.Drawing.Point(429, 410);
-            this.button50.Margin = new System.Windows.Forms.Padding(1);
-            this.button50.Name = "button50";
-            this.button50.Size = new System.Drawing.Size(70, 70);
-            this.button50.TabIndex = 42;
-            this.button50.Tag = "Play";
-            this.button50.Text = "?";
-            this.button50.UseVisualStyleBackColor = false;
-            // 
-            // button51
-            // 
-            this.button51.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button51.Location = new System.Drawing.Point(501, 410);
-            this.button51.Margin = new System.Windows.Forms.Padding(1);
-            this.button51.Name = "button51";
-            this.button51.Size = new System.Drawing.Size(70, 70);
-            this.button51.TabIndex = 41;
-            this.button51.Tag = "Play";
-            this.button51.Text = "?";
-            this.button51.UseVisualStyleBackColor = false;
-            // 
-            // button52
-            // 
-            this.button52.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button52.Location = new System.Drawing.Point(573, 409);
-            this.button52.Margin = new System.Windows.Forms.Padding(1);
-            this.button52.Name = "button52";
-            this.button52.Size = new System.Drawing.Size(70, 70);
-            this.button52.TabIndex = 40;
-            this.button52.Tag = "Play";
-            this.button52.Text = "?";
-            this.button52.UseVisualStyleBackColor = false;
-            // 
-            // button53
-            // 
-            this.button53.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button53.Location = new System.Drawing.Point(645, 409);
-            this.button53.Margin = new System.Windows.Forms.Padding(1);
-            this.button53.Name = "button53";
-            this.button53.Size = new System.Drawing.Size(70, 70);
-            this.button53.TabIndex = 39;
-            this.button53.Tag = "Play";
-            this.button53.Text = "?";
-            this.button53.UseVisualStyleBackColor = false;
-            // 
-            // button54
-            // 
-            this.button54.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button54.Location = new System.Drawing.Point(717, 409);
-            this.button54.Margin = new System.Windows.Forms.Padding(1);
-            this.button54.Name = "button54";
-            this.button54.Size = new System.Drawing.Size(70, 70);
-            this.button54.TabIndex = 38;
-            this.button54.Tag = "Play";
-            this.button54.Text = "?";
-            this.button54.UseVisualStyleBackColor = false;
-            // 
-            // button55
-            // 
-            this.button55.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button55.Location = new System.Drawing.Point(141, 481);
-            this.button55.Margin = new System.Windows.Forms.Padding(1);
-            this.button55.Name = "button55";
-            this.button55.Size = new System.Drawing.Size(70, 70);
-            this.button55.TabIndex = 73;
-            this.button55.Tag = "Play";
-            this.button55.Text = "?";
-            this.button55.UseVisualStyleBackColor = false;
-            // 
-            // button56
-            // 
-            this.button56.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button56.Location = new System.Drawing.Point(213, 482);
-            this.button56.Margin = new System.Windows.Forms.Padding(1);
-            this.button56.Name = "button56";
-            this.button56.Size = new System.Drawing.Size(70, 70);
-            this.button56.TabIndex = 72;
-            this.button56.Tag = "Play";
-            this.button56.Text = "?";
-            this.button56.UseVisualStyleBackColor = false;
-            // 
-            // button57
-            // 
-            this.button57.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button57.Location = new System.Drawing.Point(285, 481);
-            this.button57.Margin = new System.Windows.Forms.Padding(1);
-            this.button57.Name = "button57";
-            this.button57.Size = new System.Drawing.Size(70, 70);
-            this.button57.TabIndex = 71;
-            this.button57.Tag = "Play";
-            this.button57.Text = "?";
-            this.button57.UseVisualStyleBackColor = false;
-            // 
-            // button58
-            // 
-            this.button58.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button58.Location = new System.Drawing.Point(357, 482);
-            this.button58.Margin = new System.Windows.Forms.Padding(1);
-            this.button58.Name = "button58";
-            this.button58.Size = new System.Drawing.Size(70, 70);
-            this.button58.TabIndex = 70;
-            this.button58.Tag = "Play";
-            this.button58.Text = "?";
-            this.button58.UseVisualStyleBackColor = false;
-            // 
-            // button59
-            // 
-            this.button59.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button59.Location = new System.Drawing.Point(429, 482);
-            this.button59.Margin = new System.Windows.Forms.Padding(1);
-            this.button59.Name = "button59";
-            this.button59.Size = new System.Drawing.Size(70, 70);
-            this.button59.TabIndex = 69;
-            this.button59.Tag = "Play";
-            this.button59.Text = "?";
-            this.button59.UseVisualStyleBackColor = false;
-            // 
-            // button60
-            // 
-            this.button60.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button60.Location = new System.Drawing.Point(501, 482);
-            this.button60.Margin = new System.Windows.Forms.Padding(1);
-            this.button60.Name = "button60";
-            this.button60.Size = new System.Drawing.Size(70, 70);
-            this.button60.TabIndex = 68;
-            this.button60.Tag = "Play";
-            this.button60.Text = "?";
-            this.button60.UseVisualStyleBackColor = false;
-            // 
-            // button61
-            // 
-            this.button61.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button61.Location = new System.Drawing.Point(573, 481);
-            this.button61.Margin = new System.Windows.Forms.Padding(1);
-            this.button61.Name = "button61";
-            this.button61.Size = new System.Drawing.Size(70, 70);
-            this.button61.TabIndex = 67;
-            this.button61.Tag = "Play";
-            this.button61.Text = "?";
-            this.button61.UseVisualStyleBackColor = false;
-            // 
-            // button62
-            // 
-            this.button62.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button62.Location = new System.Drawing.Point(645, 481);
-            this.button62.Margin = new System.Windows.Forms.Padding(1);
-            this.button62.Name = "button62";
-            this.button62.Size = new System.Drawing.Size(70, 70);
-            this.button62.TabIndex = 66;
-            this.button62.Tag = "Play";
-            this.button62.Text = "?";
-            this.button62.UseVisualStyleBackColor = false;
-            // 
-            // button63
-            // 
-            this.button63.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button63.Location = new System.Drawing.Point(717, 481);
-            this.button63.Margin = new System.Windows.Forms.Padding(1);
-            this.button63.Name = "button63";
-            this.button63.Size = new System.Drawing.Size(70, 70);
-            this.button63.TabIndex = 65;
-            this.button63.Tag = "Play";
-            this.button63.Text = "?";
-            this.button63.UseVisualStyleBackColor = false;
-            // 
-            // button64
-            // 
-            this.button64.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button64.Location = new System.Drawing.Point(141, 553);
-            this.button64.Margin = new System.Windows.Forms.Padding(1);
-            this.button64.Name = "button64";
-            this.button64.Size = new System.Drawing.Size(70, 70);
-            this.button64.TabIndex = 64;
-            this.button64.Tag = "Play";
-            this.button64.Text = "?";
-            this.button64.UseVisualStyleBackColor = false;
-            // 
-            // button65
-            // 
-            this.button65.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button65.Location = new System.Drawing.Point(213, 553);
-            this.button65.Margin = new System.Windows.Forms.Padding(1);
-            this.button65.Name = "button65";
-            this.button65.Size = new System.Drawing.Size(70, 70);
-            this.button65.TabIndex = 63;
-            this.button65.Tag = "Play";
-            this.button65.Text = "?";
-            this.button65.UseVisualStyleBackColor = false;
-            // 
-            // button66
-            // 
-            this.button66.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button66.Location = new System.Drawing.Point(285, 553);
-            this.button66.Margin = new System.Windows.Forms.Padding(1);
-            this.button66.Name = "button66";
-            this.button66.Size = new System.Drawing.Size(70, 70);
-            this.button66.TabIndex = 62;
-            this.button66.Tag = "Play";
-            this.button66.Text = "?";
-            this.button66.UseVisualStyleBackColor = false;
-            // 
-            // button67
-            // 
-            this.button67.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button67.Location = new System.Drawing.Point(357, 553);
-            this.button67.Margin = new System.Windows.Forms.Padding(1);
-            this.button67.Name = "button67";
-            this.button67.Size = new System.Drawing.Size(70, 70);
-            this.button67.TabIndex = 61;
-            this.button67.Tag = "Play";
-            this.button67.Text = "?";
-            this.button67.UseVisualStyleBackColor = false;
-            // 
-            // button68
-            // 
-            this.button68.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button68.Location = new System.Drawing.Point(429, 553);
-            this.button68.Margin = new System.Windows.Forms.Padding(1);
-            this.button68.Name = "button68";
-            this.button68.Size = new System.Drawing.Size(70, 70);
-            this.button68.TabIndex = 60;
-            this.button68.Tag = "Play";
-            this.button68.Text = "?";
-            this.button68.UseVisualStyleBackColor = false;
-            // 
-            // button69
-            // 
-            this.button69.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button69.Location = new System.Drawing.Point(501, 553);
-            this.button69.Margin = new System.Windows.Forms.Padding(1);
-            this.button69.Name = "button69";
-            this.button69.Size = new System.Drawing.Size(70, 70);
-            this.button69.TabIndex = 59;
-            this.button69.Tag = "Play";
-            this.button69.Text = "?";
-            this.button69.UseVisualStyleBackColor = false;
-            // 
-            // button70
-            // 
-            this.button70.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button70.Location = new System.Drawing.Point(573, 553);
-            this.button70.Margin = new System.Windows.Forms.Padding(1);
-            this.button70.Name = "button70";
-            this.button70.Size = new System.Drawing.Size(70, 70);
-            this.button70.TabIndex = 58;
-            this.button70.Tag = "Play";
-            this.button70.Text = "?";
-            this.button70.UseVisualStyleBackColor = false;
-            // 
-            // button71
-            // 
-            this.button71.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button71.Location = new System.Drawing.Point(645, 553);
-            this.button71.Margin = new System.Windows.Forms.Padding(1);
-            this.button71.Name = "button71";
-            this.button71.Size = new System.Drawing.Size(70, 70);
-            this.button71.TabIndex = 57;
-            this.button71.Tag = "Play";
-            this.button71.Text = "?";
-            this.button71.UseVisualStyleBackColor = false;
-            // 
-            // button72
-            // 
-            this.button72.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button72.Location = new System.Drawing.Point(717, 553);
-            this.button72.Margin = new System.Windows.Forms.Padding(1);
-            this.button72.Name = "button72";
-            this.button72.Size = new System.Drawing.Size(70, 70);
-            this.button72.TabIndex = 56;
-            this.button72.Tag = "Play";
-            this.button72.Text = "?";
-            this.button72.UseVisualStyleBackColor = false;
-            // 
-            // button73
-            // 
-            this.button73.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button73.Location = new System.Drawing.Point(141, 625);
-            this.button73.Margin = new System.Windows.Forms.Padding(1);
-            this.button73.Name = "button73";
-            this.button73.Size = new System.Drawing.Size(70, 70);
-            this.button73.TabIndex = 82;
-            this.button73.Tag = "Play";
-            this.button73.Text = "?";
-            this.button73.UseVisualStyleBackColor = false;
-            // 
-            // button74
-            // 
-            this.button74.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button74.Location = new System.Drawing.Point(213, 625);
-            this.button74.Margin = new System.Windows.Forms.Padding(1);
-            this.button74.Name = "button74";
-            this.button74.Size = new System.Drawing.Size(70, 70);
-            this.button74.TabIndex = 81;
-            this.button74.Tag = "Play";
-            this.button74.Text = "?";
-            this.button74.UseVisualStyleBackColor = false;
-            // 
-            // button75
-            // 
-            this.button75.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
-            this.button75.Location = new System.Drawing.Point(285, 625);
-            this.button75.Margin = new System.Windows.Forms.Padding(1);
-            this.button75.Name = "button75";
-            this.button75.Size = new System.Drawing.Size(70, 70);
-            this.button75.TabIndex = 80;
-            this.button75.Tag = "Play";
-            this.button75.Text = "?";
-            this.button75.UseVisualStyleBackColor = false;
-            // 
-            // button76
-            // 
-            this.button76.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button76.Location = new System.Drawing.Point(357, 625);
-            this.button76.Margin = new System.Windows.Forms.Padding(1);
-            this.button76.Name = "button76";
-            this.button76.Size = new System.Drawing.Size(70, 70);
-            this.button76.TabIndex = 79;
-            this.button76.Tag = "Play";
-            this.button76.Text = "?";
-            this.button76.UseVisualStyleBackColor = false;
-            // 
-            // button77
-            // 
-            this.button77.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button77.Location = new System.Drawing.Point(429, 625);
-            this.button77.Margin = new System.Windows.Forms.Padding(1);
-            this.button77.Name = "button77";
-            this.button77.Size = new System.Drawing.Size(70, 70);
-            this.button77.TabIndex = 78;
-            this.button77.Tag = "Play";
-            this.button77.Text = "?";
-            this.button77.UseVisualStyleBackColor = false;
-            // 
-            // button78
-            // 
-            this.button78.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.button78.Location = new System.Drawing.Point(501, 625);
-            this.button78.Margin = new System.Windows.Forms.Padding(1);
-            this.button78.Name = "button78";
-            this.button78.Size = new System.Drawing.Size(70, 70);
-            this.button78.TabIndex = 77;
-            this.button78.Tag = "Play";
-            this.button78.Text = "?";
-            this.button78.UseVisualStyleBackColor = false;
-            // 
-            // button79
-            // 
-            this.button79.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button79.Location = new System.Drawing.Point(573, 625);
-            this.button79.Margin = new System.Windows.Forms.Padding(1);
-            this.button79.Name = "button79";
-            this.button79.Size = new System.Drawing.Size(70, 70);
-            this.button79.TabIndex = 76;
-            this.button79.Tag = "Play";
-            this.button79.Text = "?";
-            this.button79.UseVisualStyleBackColor = false;
-            // 
-            // button80
-            // 
-            this.button80.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button80.Location = new System.Drawing.Point(645, 625);
-            this.button80.Margin = new System.Windows.Forms.Padding(1);
-            this.button80.Name = "button80";
-            this.button80.Size = new System.Drawing.Size(70, 70);
-            this.button80.TabIndex = 75;
-            this.button80.Tag = "Play";
-            this.button80.Text = "?";
-            this.button80.UseVisualStyleBackColor = false;
-            // 
-            // button81
-            // 
-            this.button81.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
-            this.button81.Location = new System.Drawing.Point(717, 625);
-            this.button81.Margin = new System.Windows.Forms.Padding(1);
-            this.button81.Name = "button81";
-            this.button81.Size = new System.Drawing.Size(70, 70);
-            this.button81.TabIndex = 74;
-            this.button81.Tag = "Play";
-            this.button81.Text = "?";
-            this.button81.UseVisualStyleBackColor = false;
+            // A1
+            // 
+            this.A1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.A1.Location = new System.Drawing.Point(376, 117);
+            this.A1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.A1.Name = "A1";
+            this.A1.Size = new System.Drawing.Size(187, 167);
+            this.A1.TabIndex = 2;
+            this.A1.Tag = "Play";
+            this.A1.Text = "?";
+            this.A1.UseVisualStyleBackColor = false;
+            this.A1.Click += new System.EventHandler(this.Button1_Click);
+            // 
+            // A2
+            // 
+            this.A2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.A2.Location = new System.Drawing.Point(568, 117);
+            this.A2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.A2.Name = "A2";
+            this.A2.Size = new System.Drawing.Size(187, 167);
+            this.A2.TabIndex = 3;
+            this.A2.Tag = "Play";
+            this.A2.Text = "?";
+            this.A2.UseVisualStyleBackColor = false;
+            // 
+            // A3
+            // 
+            this.A3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.A3.Location = new System.Drawing.Point(760, 117);
+            this.A3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.A3.Name = "A3";
+            this.A3.Size = new System.Drawing.Size(187, 167);
+            this.A3.TabIndex = 4;
+            this.A3.Tag = "Play";
+            this.A3.Text = "?";
+            this.A3.UseVisualStyleBackColor = false;
+            // 
+            // A4
+            // 
+            this.A4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.A4.Location = new System.Drawing.Point(952, 117);
+            this.A4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.A4.Name = "A4";
+            this.A4.Size = new System.Drawing.Size(187, 167);
+            this.A4.TabIndex = 5;
+            this.A4.Tag = "Play";
+            this.A4.Text = "?";
+            this.A4.UseVisualStyleBackColor = false;
+            // 
+            // A5
+            // 
+            this.A5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.A5.Location = new System.Drawing.Point(1144, 117);
+            this.A5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.A5.Name = "A5";
+            this.A5.Size = new System.Drawing.Size(187, 167);
+            this.A5.TabIndex = 6;
+            this.A5.Tag = "Play";
+            this.A5.Text = "?";
+            this.A5.UseVisualStyleBackColor = false;
+            // 
+            // A6
+            // 
+            this.A6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.A6.Location = new System.Drawing.Point(1336, 117);
+            this.A6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.A6.Name = "A6";
+            this.A6.Size = new System.Drawing.Size(187, 167);
+            this.A6.TabIndex = 7;
+            this.A6.Tag = "Play";
+            this.A6.Text = "?";
+            this.A6.UseVisualStyleBackColor = false;
+            // 
+            // A7
+            // 
+            this.A7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.A7.Location = new System.Drawing.Point(1528, 117);
+            this.A7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.A7.Name = "A7";
+            this.A7.Size = new System.Drawing.Size(187, 167);
+            this.A7.TabIndex = 8;
+            this.A7.Tag = "Play";
+            this.A7.Text = "?";
+            this.A7.UseVisualStyleBackColor = false;
+            // 
+            // A8
+            // 
+            this.A8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.A8.Location = new System.Drawing.Point(1720, 117);
+            this.A8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.A8.Name = "A8";
+            this.A8.Size = new System.Drawing.Size(187, 167);
+            this.A8.TabIndex = 9;
+            this.A8.Tag = "Play";
+            this.A8.Text = "?";
+            this.A8.UseVisualStyleBackColor = false;
+            // 
+            // A9
+            // 
+            this.A9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.A9.Location = new System.Drawing.Point(1912, 117);
+            this.A9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.A9.Name = "A9";
+            this.A9.Size = new System.Drawing.Size(187, 167);
+            this.A9.TabIndex = 10;
+            this.A9.Tag = "Play";
+            this.A9.Text = "?";
+            this.A9.UseVisualStyleBackColor = false;
+            // 
+            // B1
+            // 
+            this.B1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.B1.Location = new System.Drawing.Point(376, 289);
+            this.B1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.B1.Name = "B1";
+            this.B1.Size = new System.Drawing.Size(187, 167);
+            this.B1.TabIndex = 11;
+            this.B1.Tag = "Play";
+            this.B1.Text = "?";
+            this.B1.UseVisualStyleBackColor = false;
+            // 
+            // B2
+            // 
+            this.B2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.B2.Location = new System.Drawing.Point(568, 289);
+            this.B2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.B2.Name = "B2";
+            this.B2.Size = new System.Drawing.Size(187, 167);
+            this.B2.TabIndex = 12;
+            this.B2.Tag = "Play";
+            this.B2.Text = "?";
+            this.B2.UseVisualStyleBackColor = false;
+            // 
+            // B3
+            // 
+            this.B3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.B3.Location = new System.Drawing.Point(760, 289);
+            this.B3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.B3.Name = "B3";
+            this.B3.Size = new System.Drawing.Size(187, 167);
+            this.B3.TabIndex = 13;
+            this.B3.Tag = "Play";
+            this.B3.Text = "?";
+            this.B3.UseVisualStyleBackColor = false;
+            // 
+            // B4
+            // 
+            this.B4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.B4.Location = new System.Drawing.Point(952, 289);
+            this.B4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.B4.Name = "B4";
+            this.B4.Size = new System.Drawing.Size(187, 167);
+            this.B4.TabIndex = 14;
+            this.B4.Tag = "Play";
+            this.B4.Text = "?";
+            this.B4.UseVisualStyleBackColor = false;
+            // 
+            // B5
+            // 
+            this.B5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.B5.Location = new System.Drawing.Point(1144, 289);
+            this.B5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.B5.Name = "B5";
+            this.B5.Size = new System.Drawing.Size(187, 167);
+            this.B5.TabIndex = 15;
+            this.B5.Tag = "Play";
+            this.B5.Text = "?";
+            this.B5.UseVisualStyleBackColor = false;
+            // 
+            // B6
+            // 
+            this.B6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.B6.Location = new System.Drawing.Point(1336, 289);
+            this.B6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.B6.Name = "B6";
+            this.B6.Size = new System.Drawing.Size(187, 167);
+            this.B6.TabIndex = 16;
+            this.B6.Tag = "Play";
+            this.B6.Text = "?";
+            this.B6.UseVisualStyleBackColor = false;
+            // 
+            // B7
+            // 
+            this.B7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.B7.Location = new System.Drawing.Point(1528, 289);
+            this.B7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.B7.Name = "B7";
+            this.B7.Size = new System.Drawing.Size(187, 167);
+            this.B7.TabIndex = 17;
+            this.B7.Tag = "Play";
+            this.B7.Text = "?";
+            this.B7.UseVisualStyleBackColor = false;
+            // 
+            // B8
+            // 
+            this.B8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.B8.Location = new System.Drawing.Point(1720, 289);
+            this.B8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.B8.Name = "B8";
+            this.B8.Size = new System.Drawing.Size(187, 167);
+            this.B8.TabIndex = 18;
+            this.B8.Tag = "Play";
+            this.B8.Text = "?";
+            this.B8.UseVisualStyleBackColor = false;
+            // 
+            // B9
+            // 
+            this.B9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.B9.Location = new System.Drawing.Point(1912, 289);
+            this.B9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.B9.Name = "B9";
+            this.B9.Size = new System.Drawing.Size(187, 167);
+            this.B9.TabIndex = 19;
+            this.B9.Tag = "Play";
+            this.B9.Text = "?";
+            this.B9.UseVisualStyleBackColor = false;
+            // 
+            // C1
+            // 
+            this.C1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.C1.Location = new System.Drawing.Point(376, 460);
+            this.C1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.C1.Name = "C1";
+            this.C1.Size = new System.Drawing.Size(187, 167);
+            this.C1.TabIndex = 37;
+            this.C1.Tag = "Play";
+            this.C1.Text = "?";
+            this.C1.UseVisualStyleBackColor = false;
+            // 
+            // C2
+            // 
+            this.C2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.C2.Location = new System.Drawing.Point(568, 460);
+            this.C2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.C2.Name = "C2";
+            this.C2.Size = new System.Drawing.Size(187, 167);
+            this.C2.TabIndex = 36;
+            this.C2.Tag = "Play";
+            this.C2.Text = "?";
+            this.C2.UseVisualStyleBackColor = false;
+            // 
+            // C3
+            // 
+            this.C3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.C3.Location = new System.Drawing.Point(760, 460);
+            this.C3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.C3.Name = "C3";
+            this.C3.Size = new System.Drawing.Size(187, 167);
+            this.C3.TabIndex = 35;
+            this.C3.Tag = "Play";
+            this.C3.Text = "?";
+            this.C3.UseVisualStyleBackColor = false;
+            // 
+            // C4
+            // 
+            this.C4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.C4.Location = new System.Drawing.Point(952, 460);
+            this.C4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.C4.Name = "C4";
+            this.C4.Size = new System.Drawing.Size(187, 167);
+            this.C4.TabIndex = 34;
+            this.C4.Tag = "Play";
+            this.C4.Text = "?";
+            this.C4.UseVisualStyleBackColor = false;
+            // 
+            // C5
+            // 
+            this.C5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.C5.Location = new System.Drawing.Point(1144, 460);
+            this.C5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.C5.Name = "C5";
+            this.C5.Size = new System.Drawing.Size(187, 167);
+            this.C5.TabIndex = 33;
+            this.C5.Tag = "Play";
+            this.C5.Text = "?";
+            this.C5.UseVisualStyleBackColor = false;
+            // 
+            // C6
+            // 
+            this.C6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.C6.Location = new System.Drawing.Point(1336, 460);
+            this.C6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.C6.Name = "C6";
+            this.C6.Size = new System.Drawing.Size(187, 167);
+            this.C6.TabIndex = 32;
+            this.C6.Tag = "Play";
+            this.C6.Text = "?";
+            this.C6.UseVisualStyleBackColor = false;
+            // 
+            // C7
+            // 
+            this.C7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.C7.Location = new System.Drawing.Point(1528, 460);
+            this.C7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.C7.Name = "C7";
+            this.C7.Size = new System.Drawing.Size(187, 167);
+            this.C7.TabIndex = 31;
+            this.C7.Tag = "Play";
+            this.C7.Text = "?";
+            this.C7.UseVisualStyleBackColor = false;
+            // 
+            // C8
+            // 
+            this.C8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.C8.Location = new System.Drawing.Point(1720, 460);
+            this.C8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.C8.Name = "C8";
+            this.C8.Size = new System.Drawing.Size(187, 167);
+            this.C8.TabIndex = 30;
+            this.C8.Tag = "Play";
+            this.C8.Text = "?";
+            this.C8.UseVisualStyleBackColor = false;
+            // 
+            // C9
+            // 
+            this.C9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.C9.Location = new System.Drawing.Point(1912, 460);
+            this.C9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.C9.Name = "C9";
+            this.C9.Size = new System.Drawing.Size(187, 167);
+            this.C9.TabIndex = 29;
+            this.C9.Tag = "Play";
+            this.C9.Text = "?";
+            this.C9.UseVisualStyleBackColor = false;
+            // 
+            // D1
+            // 
+            this.D1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.D1.Location = new System.Drawing.Point(376, 632);
+            this.D1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.D1.Name = "D1";
+            this.D1.Size = new System.Drawing.Size(187, 167);
+            this.D1.TabIndex = 28;
+            this.D1.Tag = "Play";
+            this.D1.Text = "?";
+            this.D1.UseVisualStyleBackColor = false;
+            // 
+            // D2
+            // 
+            this.D2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.D2.Location = new System.Drawing.Point(568, 632);
+            this.D2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.D2.Name = "D2";
+            this.D2.Size = new System.Drawing.Size(187, 167);
+            this.D2.TabIndex = 27;
+            this.D2.Tag = "Play";
+            this.D2.Text = "?";
+            this.D2.UseVisualStyleBackColor = false;
+            // 
+            // D3
+            // 
+            this.D3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.D3.Location = new System.Drawing.Point(760, 632);
+            this.D3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.D3.Name = "D3";
+            this.D3.Size = new System.Drawing.Size(187, 167);
+            this.D3.TabIndex = 26;
+            this.D3.Tag = "Play";
+            this.D3.Text = "?";
+            this.D3.UseVisualStyleBackColor = false;
+            // 
+            // D4
+            // 
+            this.D4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.D4.Location = new System.Drawing.Point(952, 632);
+            this.D4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.D4.Name = "D4";
+            this.D4.Size = new System.Drawing.Size(187, 167);
+            this.D4.TabIndex = 25;
+            this.D4.Tag = "Play";
+            this.D4.Text = "?";
+            this.D4.UseVisualStyleBackColor = false;
+            // 
+            // D5
+            // 
+            this.D5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.D5.Location = new System.Drawing.Point(1144, 632);
+            this.D5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.D5.Name = "D5";
+            this.D5.Size = new System.Drawing.Size(187, 167);
+            this.D5.TabIndex = 24;
+            this.D5.Tag = "Play";
+            this.D5.Text = "?";
+            this.D5.UseVisualStyleBackColor = false;
+            // 
+            // D6
+            // 
+            this.D6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.D6.Location = new System.Drawing.Point(1336, 632);
+            this.D6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.D6.Name = "D6";
+            this.D6.Size = new System.Drawing.Size(187, 167);
+            this.D6.TabIndex = 23;
+            this.D6.Tag = "Play";
+            this.D6.Text = "?";
+            this.D6.UseVisualStyleBackColor = false;
+            // 
+            // D7
+            // 
+            this.D7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.D7.Location = new System.Drawing.Point(1528, 632);
+            this.D7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.D7.Name = "D7";
+            this.D7.Size = new System.Drawing.Size(187, 167);
+            this.D7.TabIndex = 22;
+            this.D7.Tag = "Play";
+            this.D7.Text = "?";
+            this.D7.UseVisualStyleBackColor = false;
+            // 
+            // D8
+            // 
+            this.D8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.D8.Location = new System.Drawing.Point(1720, 632);
+            this.D8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.D8.Name = "D8";
+            this.D8.Size = new System.Drawing.Size(187, 167);
+            this.D8.TabIndex = 21;
+            this.D8.Tag = "Play";
+            this.D8.Text = "?";
+            this.D8.UseVisualStyleBackColor = false;
+            // 
+            // D9
+            // 
+            this.D9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.D9.Location = new System.Drawing.Point(1912, 632);
+            this.D9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.D9.Name = "D9";
+            this.D9.Size = new System.Drawing.Size(187, 167);
+            this.D9.TabIndex = 20;
+            this.D9.Tag = "Play";
+            this.D9.Text = "?";
+            this.D9.UseVisualStyleBackColor = false;
+            // 
+            // E1
+            // 
+            this.E1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.E1.Location = new System.Drawing.Point(376, 804);
+            this.E1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.E1.Name = "E1";
+            this.E1.Size = new System.Drawing.Size(187, 167);
+            this.E1.TabIndex = 55;
+            this.E1.Tag = "Play";
+            this.E1.Text = "?";
+            this.E1.UseVisualStyleBackColor = false;
+            // 
+            // E2
+            // 
+            this.E2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.E2.Location = new System.Drawing.Point(568, 804);
+            this.E2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.E2.Name = "E2";
+            this.E2.Size = new System.Drawing.Size(187, 167);
+            this.E2.TabIndex = 54;
+            this.E2.Tag = "Play";
+            this.E2.Text = "?";
+            this.E2.UseVisualStyleBackColor = false;
+            // 
+            // E3
+            // 
+            this.E3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.E3.Location = new System.Drawing.Point(760, 804);
+            this.E3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.E3.Name = "E3";
+            this.E3.Size = new System.Drawing.Size(187, 167);
+            this.E3.TabIndex = 53;
+            this.E3.Tag = "Play";
+            this.E3.Text = "?";
+            this.E3.UseVisualStyleBackColor = false;
+            // 
+            // E4
+            // 
+            this.E4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.E4.Location = new System.Drawing.Point(952, 804);
+            this.E4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.E4.Name = "E4";
+            this.E4.Size = new System.Drawing.Size(187, 167);
+            this.E4.TabIndex = 52;
+            this.E4.Tag = "Play";
+            this.E4.Text = "?";
+            this.E4.UseVisualStyleBackColor = false;
+            // 
+            // E5
+            // 
+            this.E5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.E5.Location = new System.Drawing.Point(1144, 804);
+            this.E5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.E5.Name = "E5";
+            this.E5.Size = new System.Drawing.Size(187, 167);
+            this.E5.TabIndex = 51;
+            this.E5.Tag = "Play";
+            this.E5.Text = "?";
+            this.E5.UseVisualStyleBackColor = false;
+            // 
+            // E6
+            // 
+            this.E6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.E6.Location = new System.Drawing.Point(1336, 804);
+            this.E6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.E6.Name = "E6";
+            this.E6.Size = new System.Drawing.Size(187, 167);
+            this.E6.TabIndex = 50;
+            this.E6.Tag = "Play";
+            this.E6.Text = "?";
+            this.E6.UseVisualStyleBackColor = false;
+            // 
+            // E7
+            // 
+            this.E7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.E7.Location = new System.Drawing.Point(1528, 804);
+            this.E7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.E7.Name = "E7";
+            this.E7.Size = new System.Drawing.Size(187, 167);
+            this.E7.TabIndex = 49;
+            this.E7.Tag = "Play";
+            this.E7.Text = "?";
+            this.E7.UseVisualStyleBackColor = false;
+            // 
+            // E8
+            // 
+            this.E8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.E8.Location = new System.Drawing.Point(1720, 804);
+            this.E8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.E8.Name = "E8";
+            this.E8.Size = new System.Drawing.Size(187, 167);
+            this.E8.TabIndex = 48;
+            this.E8.Tag = "Play";
+            this.E8.Text = "?";
+            this.E8.UseVisualStyleBackColor = false;
+            // 
+            // E9
+            // 
+            this.E9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.E9.Location = new System.Drawing.Point(1912, 804);
+            this.E9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.E9.Name = "E9";
+            this.E9.Size = new System.Drawing.Size(187, 167);
+            this.E9.TabIndex = 47;
+            this.E9.Tag = "Play";
+            this.E9.Text = "?";
+            this.E9.UseVisualStyleBackColor = false;
+            // 
+            // F1
+            // 
+            this.F1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.F1.Location = new System.Drawing.Point(376, 978);
+            this.F1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.F1.Name = "F1";
+            this.F1.Size = new System.Drawing.Size(187, 167);
+            this.F1.TabIndex = 46;
+            this.F1.Tag = "Play";
+            this.F1.Text = "?";
+            this.F1.UseVisualStyleBackColor = false;
+            // 
+            // F2
+            // 
+            this.F2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.F2.Location = new System.Drawing.Point(568, 978);
+            this.F2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.F2.Name = "F2";
+            this.F2.Size = new System.Drawing.Size(187, 167);
+            this.F2.TabIndex = 45;
+            this.F2.Tag = "Play";
+            this.F2.Text = "?";
+            this.F2.UseVisualStyleBackColor = false;
+            // 
+            // F3
+            // 
+            this.F3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.F3.Location = new System.Drawing.Point(760, 978);
+            this.F3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.F3.Name = "F3";
+            this.F3.Size = new System.Drawing.Size(187, 167);
+            this.F3.TabIndex = 44;
+            this.F3.Tag = "Play";
+            this.F3.Text = "?";
+            this.F3.UseVisualStyleBackColor = false;
+            // 
+            // F4
+            // 
+            this.F4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.F4.Location = new System.Drawing.Point(952, 978);
+            this.F4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.F4.Name = "F4";
+            this.F4.Size = new System.Drawing.Size(187, 167);
+            this.F4.TabIndex = 43;
+            this.F4.Tag = "Play";
+            this.F4.Text = "?";
+            this.F4.UseVisualStyleBackColor = false;
+            // 
+            // F5
+            // 
+            this.F5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.F5.Location = new System.Drawing.Point(1144, 978);
+            this.F5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.F5.Name = "F5";
+            this.F5.Size = new System.Drawing.Size(187, 167);
+            this.F5.TabIndex = 42;
+            this.F5.Tag = "Play";
+            this.F5.Text = "?";
+            this.F5.UseVisualStyleBackColor = false;
+            // 
+            // F6
+            // 
+            this.F6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.F6.Location = new System.Drawing.Point(1336, 978);
+            this.F6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.F6.Name = "F6";
+            this.F6.Size = new System.Drawing.Size(187, 167);
+            this.F6.TabIndex = 41;
+            this.F6.Tag = "Play";
+            this.F6.Text = "?";
+            this.F6.UseVisualStyleBackColor = false;
+            // 
+            // F7
+            // 
+            this.F7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.F7.Location = new System.Drawing.Point(1528, 975);
+            this.F7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.F7.Name = "F7";
+            this.F7.Size = new System.Drawing.Size(187, 167);
+            this.F7.TabIndex = 40;
+            this.F7.Tag = "Play";
+            this.F7.Text = "?";
+            this.F7.UseVisualStyleBackColor = false;
+            // 
+            // F8
+            // 
+            this.F8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.F8.Location = new System.Drawing.Point(1720, 975);
+            this.F8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.F8.Name = "F8";
+            this.F8.Size = new System.Drawing.Size(187, 167);
+            this.F8.TabIndex = 39;
+            this.F8.Tag = "Play";
+            this.F8.Text = "?";
+            this.F8.UseVisualStyleBackColor = false;
+            // 
+            // F9
+            // 
+            this.F9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.F9.Location = new System.Drawing.Point(1912, 975);
+            this.F9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.F9.Name = "F9";
+            this.F9.Size = new System.Drawing.Size(187, 167);
+            this.F9.TabIndex = 38;
+            this.F9.Tag = "Play";
+            this.F9.Text = "?";
+            this.F9.UseVisualStyleBackColor = false;
+            // 
+            // G1
+            // 
+            this.G1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.G1.Location = new System.Drawing.Point(376, 1147);
+            this.G1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.G1.Name = "G1";
+            this.G1.Size = new System.Drawing.Size(187, 167);
+            this.G1.TabIndex = 73;
+            this.G1.Tag = "Play";
+            this.G1.Text = "?";
+            this.G1.UseVisualStyleBackColor = false;
+            // 
+            // G2
+            // 
+            this.G2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.G2.Location = new System.Drawing.Point(568, 1149);
+            this.G2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.G2.Name = "G2";
+            this.G2.Size = new System.Drawing.Size(187, 167);
+            this.G2.TabIndex = 72;
+            this.G2.Tag = "Play";
+            this.G2.Text = "?";
+            this.G2.UseVisualStyleBackColor = false;
+            // 
+            // G3
+            // 
+            this.G3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.G3.Location = new System.Drawing.Point(760, 1147);
+            this.G3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.G3.Name = "G3";
+            this.G3.Size = new System.Drawing.Size(187, 167);
+            this.G3.TabIndex = 71;
+            this.G3.Tag = "Play";
+            this.G3.Text = "?";
+            this.G3.UseVisualStyleBackColor = false;
+            // 
+            // G4
+            // 
+            this.G4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.G4.Location = new System.Drawing.Point(952, 1149);
+            this.G4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.G4.Name = "G4";
+            this.G4.Size = new System.Drawing.Size(187, 167);
+            this.G4.TabIndex = 70;
+            this.G4.Tag = "Play";
+            this.G4.Text = "?";
+            this.G4.UseVisualStyleBackColor = false;
+            // 
+            // G5
+            // 
+            this.G5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.G5.Location = new System.Drawing.Point(1144, 1149);
+            this.G5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.G5.Name = "G5";
+            this.G5.Size = new System.Drawing.Size(187, 167);
+            this.G5.TabIndex = 69;
+            this.G5.Tag = "Play";
+            this.G5.Text = "?";
+            this.G5.UseVisualStyleBackColor = false;
+            // 
+            // G6
+            // 
+            this.G6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.G6.Location = new System.Drawing.Point(1336, 1149);
+            this.G6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.G6.Name = "G6";
+            this.G6.Size = new System.Drawing.Size(187, 167);
+            this.G6.TabIndex = 68;
+            this.G6.Tag = "Play";
+            this.G6.Text = "?";
+            this.G6.UseVisualStyleBackColor = false;
+            // 
+            // G7
+            // 
+            this.G7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.G7.Location = new System.Drawing.Point(1528, 1147);
+            this.G7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.G7.Name = "G7";
+            this.G7.Size = new System.Drawing.Size(187, 167);
+            this.G7.TabIndex = 67;
+            this.G7.Tag = "Play";
+            this.G7.Text = "?";
+            this.G7.UseVisualStyleBackColor = false;
+            // 
+            // G8
+            // 
+            this.G8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.G8.Location = new System.Drawing.Point(1720, 1147);
+            this.G8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.G8.Name = "G8";
+            this.G8.Size = new System.Drawing.Size(187, 167);
+            this.G8.TabIndex = 66;
+            this.G8.Tag = "Play";
+            this.G8.Text = "?";
+            this.G8.UseVisualStyleBackColor = false;
+            // 
+            // G9
+            // 
+            this.G9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.G9.Location = new System.Drawing.Point(1912, 1147);
+            this.G9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.G9.Name = "G9";
+            this.G9.Size = new System.Drawing.Size(187, 167);
+            this.G9.TabIndex = 65;
+            this.G9.Tag = "Play";
+            this.G9.Text = "?";
+            this.G9.UseVisualStyleBackColor = false;
+            // 
+            // H1
+            // 
+            this.H1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.H1.Location = new System.Drawing.Point(376, 1319);
+            this.H1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.H1.Name = "H1";
+            this.H1.Size = new System.Drawing.Size(187, 167);
+            this.H1.TabIndex = 64;
+            this.H1.Tag = "Play";
+            this.H1.Text = "?";
+            this.H1.UseVisualStyleBackColor = false;
+            // 
+            // H2
+            // 
+            this.H2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.H2.Location = new System.Drawing.Point(568, 1319);
+            this.H2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.H2.Name = "H2";
+            this.H2.Size = new System.Drawing.Size(187, 167);
+            this.H2.TabIndex = 63;
+            this.H2.Tag = "Play";
+            this.H2.Text = "?";
+            this.H2.UseVisualStyleBackColor = false;
+            // 
+            // H3
+            // 
+            this.H3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.H3.Location = new System.Drawing.Point(760, 1319);
+            this.H3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.H3.Name = "H3";
+            this.H3.Size = new System.Drawing.Size(187, 167);
+            this.H3.TabIndex = 62;
+            this.H3.Tag = "Play";
+            this.H3.Text = "?";
+            this.H3.UseVisualStyleBackColor = false;
+            // 
+            // H4
+            // 
+            this.H4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.H4.Location = new System.Drawing.Point(953, 1320);
+            this.H4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.H4.Name = "H4";
+            this.H4.Size = new System.Drawing.Size(187, 167);
+            this.H4.TabIndex = 61;
+            this.H4.Tag = "Play";
+            this.H4.Text = "?";
+            this.H4.UseVisualStyleBackColor = false;
+            // 
+            // H5
+            // 
+            this.H5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.H5.Location = new System.Drawing.Point(1144, 1319);
+            this.H5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.H5.Name = "H5";
+            this.H5.Size = new System.Drawing.Size(187, 167);
+            this.H5.TabIndex = 60;
+            this.H5.Tag = "Play";
+            this.H5.Text = "?";
+            this.H5.UseVisualStyleBackColor = false;
+            // 
+            // H6
+            // 
+            this.H6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.H6.Location = new System.Drawing.Point(1336, 1319);
+            this.H6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.H6.Name = "H6";
+            this.H6.Size = new System.Drawing.Size(187, 167);
+            this.H6.TabIndex = 59;
+            this.H6.Tag = "Play";
+            this.H6.Text = "?";
+            this.H6.UseVisualStyleBackColor = false;
+            // 
+            // H7
+            // 
+            this.H7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.H7.Location = new System.Drawing.Point(1528, 1319);
+            this.H7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.H7.Name = "H7";
+            this.H7.Size = new System.Drawing.Size(187, 167);
+            this.H7.TabIndex = 58;
+            this.H7.Tag = "Play";
+            this.H7.Text = "?";
+            this.H7.UseVisualStyleBackColor = false;
+            // 
+            // H8
+            // 
+            this.H8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.H8.Location = new System.Drawing.Point(1720, 1319);
+            this.H8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.H8.Name = "H8";
+            this.H8.Size = new System.Drawing.Size(187, 167);
+            this.H8.TabIndex = 57;
+            this.H8.Tag = "Play";
+            this.H8.Text = "?";
+            this.H8.UseVisualStyleBackColor = false;
+            // 
+            // H9
+            // 
+            this.H9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.H9.Location = new System.Drawing.Point(1912, 1319);
+            this.H9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.H9.Name = "H9";
+            this.H9.Size = new System.Drawing.Size(187, 167);
+            this.H9.TabIndex = 56;
+            this.H9.Tag = "Play";
+            this.H9.Text = "?";
+            this.H9.UseVisualStyleBackColor = false;
+            // 
+            // I1
+            // 
+            this.I1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.I1.Location = new System.Drawing.Point(376, 1490);
+            this.I1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.I1.Name = "I1";
+            this.I1.Size = new System.Drawing.Size(187, 167);
+            this.I1.TabIndex = 82;
+            this.I1.Tag = "Play";
+            this.I1.Text = "?";
+            this.I1.UseVisualStyleBackColor = false;
+            // 
+            // I2
+            // 
+            this.I2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.I2.Location = new System.Drawing.Point(568, 1490);
+            this.I2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.I2.Name = "I2";
+            this.I2.Size = new System.Drawing.Size(187, 167);
+            this.I2.TabIndex = 81;
+            this.I2.Tag = "Play";
+            this.I2.Text = "?";
+            this.I2.UseVisualStyleBackColor = false;
+            // 
+            // I3
+            // 
+            this.I3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
+            this.I3.Location = new System.Drawing.Point(760, 1490);
+            this.I3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.I3.Name = "I3";
+            this.I3.Size = new System.Drawing.Size(187, 167);
+            this.I3.TabIndex = 80;
+            this.I3.Tag = "Play";
+            this.I3.Text = "?";
+            this.I3.UseVisualStyleBackColor = false;
+            // 
+            // I4
+            // 
+            this.I4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.I4.Location = new System.Drawing.Point(952, 1490);
+            this.I4.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.I4.Name = "I4";
+            this.I4.Size = new System.Drawing.Size(187, 167);
+            this.I4.TabIndex = 79;
+            this.I4.Tag = "Play";
+            this.I4.Text = "?";
+            this.I4.UseVisualStyleBackColor = false;
+            // 
+            // I5
+            // 
+            this.I5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.I5.Location = new System.Drawing.Point(1144, 1490);
+            this.I5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.I5.Name = "I5";
+            this.I5.Size = new System.Drawing.Size(187, 167);
+            this.I5.TabIndex = 78;
+            this.I5.Tag = "Play";
+            this.I5.Text = "?";
+            this.I5.UseVisualStyleBackColor = false;
+            // 
+            // I6
+            // 
+            this.I6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.I6.Location = new System.Drawing.Point(1336, 1490);
+            this.I6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.I6.Name = "I6";
+            this.I6.Size = new System.Drawing.Size(187, 167);
+            this.I6.TabIndex = 77;
+            this.I6.Tag = "Play";
+            this.I6.Text = "?";
+            this.I6.UseVisualStyleBackColor = false;
+            // 
+            // I7
+            // 
+            this.I7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.I7.Location = new System.Drawing.Point(1528, 1490);
+            this.I7.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.I7.Name = "I7";
+            this.I7.Size = new System.Drawing.Size(187, 167);
+            this.I7.TabIndex = 76;
+            this.I7.Tag = "Play";
+            this.I7.Text = "?";
+            this.I7.UseVisualStyleBackColor = false;
+            // 
+            // I8
+            // 
+            this.I8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.I8.Location = new System.Drawing.Point(1720, 1490);
+            this.I8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.I8.Name = "I8";
+            this.I8.Size = new System.Drawing.Size(187, 167);
+            this.I8.TabIndex = 75;
+            this.I8.Tag = "Play";
+            this.I8.Text = "?";
+            this.I8.UseVisualStyleBackColor = false;
+            // 
+            // I9
+            // 
+            this.I9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.I9.Location = new System.Drawing.Point(1912, 1490);
+            this.I9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.I9.Name = "I9";
+            this.I9.Size = new System.Drawing.Size(187, 167);
+            this.I9.TabIndex = 74;
+            this.I9.Tag = "Play";
+            this.I9.Text = "?";
+            this.I9.UseVisualStyleBackColor = false;
             // 
             // Reset
             // 
             this.Reset.BackColor = System.Drawing.Color.Silver;
             this.Reset.Font = new System.Drawing.Font("Showcard Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Reset.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.Reset.Location = new System.Drawing.Point(906, 488);
+            this.Reset.Location = new System.Drawing.Point(2259, 1382);
+            this.Reset.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.Reset.Name = "Reset";
-            this.Reset.Size = new System.Drawing.Size(196, 48);
+            this.Reset.Size = new System.Drawing.Size(523, 114);
             this.Reset.TabIndex = 83;
             this.Reset.Text = "RESET";
             this.Reset.UseVisualStyleBackColor = false;
@@ -1128,9 +1132,10 @@
             this.button82.BackColor = System.Drawing.Color.Silver;
             this.button82.Font = new System.Drawing.Font("Showcard Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button82.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.button82.Location = new System.Drawing.Point(906, 343);
+            this.button82.Location = new System.Drawing.Point(2259, 993);
+            this.button82.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button82.Name = "button82";
-            this.button82.Size = new System.Drawing.Size(196, 48);
+            this.button82.Size = new System.Drawing.Size(523, 114);
             this.button82.TabIndex = 84;
             this.button82.Text = "SAVE GAME";
             this.button82.UseVisualStyleBackColor = false;
@@ -1140,9 +1145,10 @@
             this.button83.BackColor = System.Drawing.Color.Silver;
             this.button83.Font = new System.Drawing.Font("Showcard Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button83.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.button83.Location = new System.Drawing.Point(906, 416);
+            this.button83.Location = new System.Drawing.Point(2259, 1202);
+            this.button83.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button83.Name = "button83";
-            this.button83.Size = new System.Drawing.Size(196, 48);
+            this.button83.Size = new System.Drawing.Size(523, 114);
             this.button83.TabIndex = 85;
             this.button83.Text = "LOAD GAME";
             this.button83.UseVisualStyleBackColor = false;
@@ -1152,109 +1158,114 @@
             this.button84.BackColor = System.Drawing.Color.Silver;
             this.button84.Font = new System.Drawing.Font("Showcard Gothic", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button84.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.button84.Location = new System.Drawing.Point(906, 559);
+            this.button84.Location = new System.Drawing.Point(2259, 1543);
+            this.button84.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.button84.Name = "button84";
-            this.button84.Size = new System.Drawing.Size(196, 48);
+            this.button84.Size = new System.Drawing.Size(523, 114);
             this.button84.TabIndex = 86;
             this.button84.Text = "QUIT   :(";
             this.button84.UseVisualStyleBackColor = false;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(192)))), ((int)(((byte)(255)))));
-            this.ClientSize = new System.Drawing.Size(1259, 749);
+            this.ClientSize = new System.Drawing.Size(3032, 1693);
             this.Controls.Add(this.button84);
             this.Controls.Add(this.button83);
             this.Controls.Add(this.button82);
             this.Controls.Add(this.Reset);
-            this.Controls.Add(this.button73);
-            this.Controls.Add(this.button74);
-            this.Controls.Add(this.button75);
-            this.Controls.Add(this.button76);
-            this.Controls.Add(this.button77);
-            this.Controls.Add(this.button78);
-            this.Controls.Add(this.button79);
-            this.Controls.Add(this.button80);
-            this.Controls.Add(this.button81);
-            this.Controls.Add(this.button55);
-            this.Controls.Add(this.button56);
-            this.Controls.Add(this.button57);
-            this.Controls.Add(this.button58);
-            this.Controls.Add(this.button59);
-            this.Controls.Add(this.button60);
-            this.Controls.Add(this.button61);
-            this.Controls.Add(this.button62);
-            this.Controls.Add(this.button63);
-            this.Controls.Add(this.button64);
-            this.Controls.Add(this.button65);
-            this.Controls.Add(this.button66);
-            this.Controls.Add(this.button67);
-            this.Controls.Add(this.button68);
-            this.Controls.Add(this.button69);
-            this.Controls.Add(this.button70);
-            this.Controls.Add(this.button71);
-            this.Controls.Add(this.button72);
-            this.Controls.Add(this.button37);
-            this.Controls.Add(this.button38);
-            this.Controls.Add(this.button39);
-            this.Controls.Add(this.button40);
-            this.Controls.Add(this.button41);
-            this.Controls.Add(this.button42);
-            this.Controls.Add(this.button43);
-            this.Controls.Add(this.button44);
-            this.Controls.Add(this.button45);
-            this.Controls.Add(this.button46);
-            this.Controls.Add(this.button47);
-            this.Controls.Add(this.button48);
-            this.Controls.Add(this.button49);
-            this.Controls.Add(this.button50);
-            this.Controls.Add(this.button51);
-            this.Controls.Add(this.button52);
-            this.Controls.Add(this.button53);
-            this.Controls.Add(this.button54);
-            this.Controls.Add(this.button19);
-            this.Controls.Add(this.button20);
-            this.Controls.Add(this.button21);
-            this.Controls.Add(this.button22);
-            this.Controls.Add(this.button23);
-            this.Controls.Add(this.button24);
-            this.Controls.Add(this.button25);
-            this.Controls.Add(this.button26);
-            this.Controls.Add(this.button27);
-            this.Controls.Add(this.button28);
-            this.Controls.Add(this.button29);
-            this.Controls.Add(this.button30);
-            this.Controls.Add(this.button31);
-            this.Controls.Add(this.button32);
-            this.Controls.Add(this.button33);
-            this.Controls.Add(this.button34);
-            this.Controls.Add(this.button35);
-            this.Controls.Add(this.button36);
-            this.Controls.Add(this.button18);
-            this.Controls.Add(this.button17);
-            this.Controls.Add(this.button16);
-            this.Controls.Add(this.button15);
-            this.Controls.Add(this.button14);
-            this.Controls.Add(this.button13);
-            this.Controls.Add(this.button12);
-            this.Controls.Add(this.button11);
-            this.Controls.Add(this.button10);
-            this.Controls.Add(this.button9);
-            this.Controls.Add(this.button8);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.I1);
+            this.Controls.Add(this.I2);
+            this.Controls.Add(this.I3);
+            this.Controls.Add(this.I4);
+            this.Controls.Add(this.I5);
+            this.Controls.Add(this.I6);
+            this.Controls.Add(this.I7);
+            this.Controls.Add(this.I8);
+            this.Controls.Add(this.I9);
+            this.Controls.Add(this.G1);
+            this.Controls.Add(this.G2);
+            this.Controls.Add(this.G3);
+            this.Controls.Add(this.G4);
+            this.Controls.Add(this.G5);
+            this.Controls.Add(this.G6);
+            this.Controls.Add(this.G7);
+            this.Controls.Add(this.G8);
+            this.Controls.Add(this.G9);
+            this.Controls.Add(this.H1);
+            this.Controls.Add(this.H2);
+            this.Controls.Add(this.H3);
+            this.Controls.Add(this.H4);
+            this.Controls.Add(this.H5);
+            this.Controls.Add(this.H6);
+            this.Controls.Add(this.H7);
+            this.Controls.Add(this.H8);
+            this.Controls.Add(this.H9);
+            this.Controls.Add(this.E1);
+            this.Controls.Add(this.E2);
+            this.Controls.Add(this.E3);
+            this.Controls.Add(this.E4);
+            this.Controls.Add(this.E5);
+            this.Controls.Add(this.E6);
+            this.Controls.Add(this.E7);
+            this.Controls.Add(this.E8);
+            this.Controls.Add(this.E9);
+            this.Controls.Add(this.F1);
+            this.Controls.Add(this.F2);
+            this.Controls.Add(this.F3);
+            this.Controls.Add(this.F4);
+            this.Controls.Add(this.F5);
+            this.Controls.Add(this.F6);
+            this.Controls.Add(this.F7);
+            this.Controls.Add(this.F8);
+            this.Controls.Add(this.F9);
+            this.Controls.Add(this.C1);
+            this.Controls.Add(this.C2);
+            this.Controls.Add(this.C3);
+            this.Controls.Add(this.C4);
+            this.Controls.Add(this.C5);
+            this.Controls.Add(this.C6);
+            this.Controls.Add(this.C7);
+            this.Controls.Add(this.C8);
+            this.Controls.Add(this.C9);
+            this.Controls.Add(this.D1);
+            this.Controls.Add(this.D2);
+            this.Controls.Add(this.D3);
+            this.Controls.Add(this.D4);
+            this.Controls.Add(this.D5);
+            this.Controls.Add(this.D6);
+            this.Controls.Add(this.D7);
+            this.Controls.Add(this.D8);
+            this.Controls.Add(this.D9);
+            this.Controls.Add(this.B9);
+            this.Controls.Add(this.B8);
+            this.Controls.Add(this.B7);
+            this.Controls.Add(this.B6);
+            this.Controls.Add(this.B5);
+            this.Controls.Add(this.B4);
+            this.Controls.Add(this.B3);
+            this.Controls.Add(this.B2);
+            this.Controls.Add(this.B1);
+            this.Controls.Add(this.A9);
+            this.Controls.Add(this.A8);
+            this.Controls.Add(this.A7);
+            this.Controls.Add(this.A6);
+            this.Controls.Add(this.A5);
+            this.Controls.Add(this.A4);
+            this.Controls.Add(this.A3);
+            this.Controls.Add(this.A2);
+            this.Controls.Add(this.A1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
+            this.Margin = new System.Windows.Forms.Padding(8, 7, 8, 7);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.ShowIcon = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Tic Tac Toe";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -1265,87 +1276,87 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.Button button17;
-        private System.Windows.Forms.Button button18;
-        private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.Button button20;
-        private System.Windows.Forms.Button button21;
-        private System.Windows.Forms.Button button22;
-        private System.Windows.Forms.Button button23;
-        private System.Windows.Forms.Button button24;
-        private System.Windows.Forms.Button button25;
-        private System.Windows.Forms.Button button26;
-        private System.Windows.Forms.Button button27;
-        private System.Windows.Forms.Button button28;
-        private System.Windows.Forms.Button button29;
-        private System.Windows.Forms.Button button30;
-        private System.Windows.Forms.Button button31;
-        private System.Windows.Forms.Button button32;
-        private System.Windows.Forms.Button button33;
-        private System.Windows.Forms.Button button34;
-        private System.Windows.Forms.Button button35;
-        private System.Windows.Forms.Button button36;
-        private System.Windows.Forms.Button button37;
-        private System.Windows.Forms.Button button38;
-        private System.Windows.Forms.Button button39;
-        private System.Windows.Forms.Button button40;
-        private System.Windows.Forms.Button button41;
-        private System.Windows.Forms.Button button42;
-        private System.Windows.Forms.Button button43;
-        private System.Windows.Forms.Button button44;
-        private System.Windows.Forms.Button button45;
-        private System.Windows.Forms.Button button46;
-        private System.Windows.Forms.Button button47;
-        private System.Windows.Forms.Button button48;
-        private System.Windows.Forms.Button button49;
-        private System.Windows.Forms.Button button50;
-        private System.Windows.Forms.Button button51;
-        private System.Windows.Forms.Button button52;
-        private System.Windows.Forms.Button button53;
-        private System.Windows.Forms.Button button54;
-        private System.Windows.Forms.Button button55;
-        private System.Windows.Forms.Button button56;
-        private System.Windows.Forms.Button button57;
-        private System.Windows.Forms.Button button58;
-        private System.Windows.Forms.Button button59;
-        private System.Windows.Forms.Button button60;
-        private System.Windows.Forms.Button button61;
-        private System.Windows.Forms.Button button62;
-        private System.Windows.Forms.Button button63;
-        private System.Windows.Forms.Button button64;
-        private System.Windows.Forms.Button button65;
-        private System.Windows.Forms.Button button66;
-        private System.Windows.Forms.Button button67;
-        private System.Windows.Forms.Button button68;
-        private System.Windows.Forms.Button button69;
-        private System.Windows.Forms.Button button70;
-        private System.Windows.Forms.Button button71;
-        private System.Windows.Forms.Button button72;
-        private System.Windows.Forms.Button button73;
-        private System.Windows.Forms.Button button74;
-        private System.Windows.Forms.Button button75;
-        private System.Windows.Forms.Button button76;
-        private System.Windows.Forms.Button button77;
-        private System.Windows.Forms.Button button78;
-        private System.Windows.Forms.Button button79;
-        private System.Windows.Forms.Button button80;
-        private System.Windows.Forms.Button button81;
+        private System.Windows.Forms.Button A1;
+        private System.Windows.Forms.Button A2;
+        private System.Windows.Forms.Button A3;
+        private System.Windows.Forms.Button A4;
+        private System.Windows.Forms.Button A5;
+        private System.Windows.Forms.Button A6;
+        private System.Windows.Forms.Button A7;
+        private System.Windows.Forms.Button A8;
+        private System.Windows.Forms.Button A9;
+        private System.Windows.Forms.Button B1;
+        private System.Windows.Forms.Button B2;
+        private System.Windows.Forms.Button B3;
+        private System.Windows.Forms.Button B4;
+        private System.Windows.Forms.Button B5;
+        private System.Windows.Forms.Button B6;
+        private System.Windows.Forms.Button B7;
+        private System.Windows.Forms.Button B8;
+        private System.Windows.Forms.Button B9;
+        private System.Windows.Forms.Button C1;
+        private System.Windows.Forms.Button C2;
+        private System.Windows.Forms.Button C3;
+        private System.Windows.Forms.Button C4;
+        private System.Windows.Forms.Button C5;
+        private System.Windows.Forms.Button C6;
+        private System.Windows.Forms.Button C7;
+        private System.Windows.Forms.Button C8;
+        private System.Windows.Forms.Button C9;
+        private System.Windows.Forms.Button D1;
+        private System.Windows.Forms.Button D2;
+        private System.Windows.Forms.Button D3;
+        private System.Windows.Forms.Button D4;
+        private System.Windows.Forms.Button D5;
+        private System.Windows.Forms.Button D6;
+        private System.Windows.Forms.Button D7;
+        private System.Windows.Forms.Button D8;
+        private System.Windows.Forms.Button D9;
+        private System.Windows.Forms.Button E1;
+        private System.Windows.Forms.Button E2;
+        private System.Windows.Forms.Button E3;
+        private System.Windows.Forms.Button E4;
+        private System.Windows.Forms.Button E5;
+        private System.Windows.Forms.Button E6;
+        private System.Windows.Forms.Button E7;
+        private System.Windows.Forms.Button E8;
+        private System.Windows.Forms.Button E9;
+        private System.Windows.Forms.Button F1;
+        private System.Windows.Forms.Button F2;
+        private System.Windows.Forms.Button F3;
+        private System.Windows.Forms.Button F4;
+        private System.Windows.Forms.Button F5;
+        private System.Windows.Forms.Button F6;
+        private System.Windows.Forms.Button F7;
+        private System.Windows.Forms.Button F8;
+        private System.Windows.Forms.Button F9;
+        private System.Windows.Forms.Button G1;
+        private System.Windows.Forms.Button G2;
+        private System.Windows.Forms.Button G3;
+        private System.Windows.Forms.Button G4;
+        private System.Windows.Forms.Button G5;
+        private System.Windows.Forms.Button G6;
+        private System.Windows.Forms.Button G7;
+        private System.Windows.Forms.Button G8;
+        private System.Windows.Forms.Button G9;
+        private System.Windows.Forms.Button H1;
+        private System.Windows.Forms.Button H2;
+        private System.Windows.Forms.Button H3;
+        private System.Windows.Forms.Button H4;
+        private System.Windows.Forms.Button H5;
+        private System.Windows.Forms.Button H6;
+        private System.Windows.Forms.Button H7;
+        private System.Windows.Forms.Button H8;
+        private System.Windows.Forms.Button H9;
+        private System.Windows.Forms.Button I1;
+        private System.Windows.Forms.Button I2;
+        private System.Windows.Forms.Button I3;
+        private System.Windows.Forms.Button I4;
+        private System.Windows.Forms.Button I5;
+        private System.Windows.Forms.Button I6;
+        private System.Windows.Forms.Button I7;
+        private System.Windows.Forms.Button I8;
+        private System.Windows.Forms.Button I9;
         private System.Windows.Forms.Button Reset;
         private System.Windows.Forms.Button button82;
         private System.Windows.Forms.Button button83;
