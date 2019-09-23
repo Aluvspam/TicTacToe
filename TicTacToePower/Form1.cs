@@ -31,5 +31,11 @@ namespace TicTacToePower
         {
 
         }
+        //exit buton
+        private void Button84_Click(object sender, EventArgs e)
+        {
+                Application.Exit();
+        }
+        //end exit buton
     }
 }

@@ -1165,6 +1165,7 @@
             this.button84.TabIndex = 86;
             this.button84.Text = "QUIT   :(";
             this.button84.UseVisualStyleBackColor = false;
+            this.button84.Click += new System.EventHandler(this.Button84_Click);
             // 
             // Form1
             // 
